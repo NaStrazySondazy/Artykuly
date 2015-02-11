@@ -38,7 +38,7 @@ Przedsiębiorstwa zatrudniające od 1 do 299 pracowników, należace do sektoró
 
 __*[Harmonogram realizacji ma duże znaczenie dla pomyślnego przebiegu badania. Dlatego ustalając tempo prac należy uwzględnić występowanie świąt lub okresów w których dostęp do badanej populacji może być utrudniony - wakacje i dłudzie weenendy. Szczególnie ważne jest, aby faza zbierania danych od respondentów nie "zahaczała" o żadne.]*__    
 
-Harmonogram realicji (dzień oznacza dzień kalendarzowy po podpisaniu umowy)
+Harmonogram realicji (dzień oznacza dzień kalendarzowy po podpisaniu umowy)   
 1. 1-7 dzień  Przekazanie kwestionariusza;     
 __*[Kwestionariusz musi byc ukończony przed złożeniem zamówienia. Opóźnienia w przygotowaniu kwestionariusza po stronie Zamawiającego bardzo utrudniają prawidłową realizację badania. Dlatego lepiej przekazać szybko niedokończony kwestionariusz i uzgodnić jego wykończenie.]*__    
 
