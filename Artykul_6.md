@@ -35,8 +35,8 @@ Przedsiębiorstwa zatrudniające od 1 do 299 pracowników, należace do sektoró
 
 ### 1.3 Termin realizacji     
 __*[Harmonogram realizacji ma duże znaczenie dla pomyślnego przebiegu badania. Dlatego ustalając tempo prac należy uwzględnić występowanie świąt lub okresów w których dostęp do badanej populacji może być utrudniony - wakacje i dłudzie weenendy. Szczególnie ważne jest, aby faza zbierania danych od respondentów nie "zahaczała" o żadne.]*__     
-Harmonogram realicji (dzień oznacza dzień kalendarzowy po podpisaniu umowy)     
- 1. 1-7 dzień  Przekazanie kwestionariusza;     
+Harmonogram realicji (dzień oznacza dzień kalendarzowy po podpisaniu umowy):     
+ 1. 1-7 dzień - przekazanie kwestionariusza;     
 __*[Kwestionariusz musi byc ukończony przed złożeniem zamówienia. Opóźnienia w przygotowaniu kwestionariusza po stronie Zamawiającego bardzo utrudniają prawidłową realizację badania. Dlatego lepiej przekazać szybko niedokończony kwestionariusz i uzgodnić jego wykończenie.]*__    
  2. 8-22 dzień - konsultacje kwestionariusza;      
 __*[Konsultacje kwestionariusza powinny uwzględniać równieć czas potrzebny na jego "oskryptwanie", czyli czas potrzebny na wdrożenie do systemu konputerowego, jeżeli badanie jest prowadzone metodą CAPI lub CATI, lub przygotowania wydruku w przypadku badania PAPI.]*__     
@@ -46,7 +46,7 @@ __*[Konsultacje kwestionariusza powinny uwzględniać równieć czas potrzebny n
 
 ## 2. Kwestionariusz      
 Wykonawca otrzyma kwestionariusz w terminie do 5 dni kalendarzowych od momentu podpisania umowy.    
-__*[Lepiej przekazać niedokończony kwestionariusz niż niepotrzebnie opóźniać jego przekazanie - i tak będzie on jeszcze zmieniany w trakcie konsulacjie]*__      
+__*[Lepiej przekazać niedokończony kwestionariusz niż niepotrzebnie opóźniać jego przekazanie - i tak będzie on jeszcze zmieniany w trakcie konsulacji]*__      
 Wykonawca jest zobowiązany do przeprowadzenie konsultacji z Zamawiającym w zakresie struktury kwestionariusza. W wyniku konsultacji, za zgodą Zamawiającego, Wykonawca może wprowadzić zmiany w kwestionariuszu.     
 
 ## 3. Realizacja badania       
