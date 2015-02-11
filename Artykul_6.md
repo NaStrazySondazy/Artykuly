@@ -40,7 +40,7 @@ __Harmonogram realizacji ma duże znaczenie dla pomyślnego przebiegu badania. D
 Harmonogram realicji (dzień oznacza dzień kalendarzowy po podpisaniu umowy)
 1. 1-7 dzień  Przekazanie kwestionariusza;     
 
-__Kwestionariusz musi byc ukończony przed złożeniem zamówienia. Opóźnienia w przygotowaniu kwestionariusza po stronie Zamawiającego bardzo utrudniają prawidłową realizację badania. Dlatego lepiej przekazać szybko niedokończony kwestionariusz i uzgodnić jego wykończenie __    
+__Kwestionariusz musi byc ukończony przed złożeniem zamówienia. Opóźnienia w przygotowaniu kwestionariusza po stronie Zamawiającego bardzo utrudniają prawidłową realizację badania. Dlatego lepiej przekazać szybko niedokończony kwestionariusz i uzgodnić jego wykończenie.__    
 
 3. 8-22 dzień - konsultacje kwestionariusza;
 
