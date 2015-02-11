@@ -7,7 +7,6 @@ Badane ma na celu zdiagnozować kondycję sektora Małych i Średnich Przedsięb
   * tempo przyrostów przychodów
   * wielkość zatrudnienia
   * ...    
-
 Badanie zostanie przeprowadzona na próbie ogólnopolskiej 1000 podmiotów sektora Małych i Średnich Przedsiebiorstw przy użyciu techniki CAPI      
 __*[Alternatywnie można użyć Techniki PAPI lub CATI w zależności od poziomu trudności ankiety. CATI nadaje się tylko do  realizacji jest raczej dowolna]*__     
 
