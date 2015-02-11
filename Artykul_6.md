@@ -40,16 +40,14 @@ __*[Harmonogram realizacji ma duże znaczenie dla pomyślnego przebiegu badania.
 
 Harmonogram realicji (dzień oznacza dzień kalendarzowy po podpisaniu umowy)
 1. 1-7 dzień  Przekazanie kwestionariusza;     
-
 __*[Kwestionariusz musi byc ukończony przed złożeniem zamówienia. Opóźnienia w przygotowaniu kwestionariusza po stronie Zamawiającego bardzo utrudniają prawidłową realizację badania. Dlatego lepiej przekazać szybko niedokończony kwestionariusz i uzgodnić jego wykończenie.]*__    
 
-3. 8-22 dzień - konsultacje kwestionariusza;
-
+3. 8-22 dzień - konsultacje kwestionariusza;      
 __*[Konsultacje kwestionariusza powinny uwzględniać równieć czas potrzebny na jego "oskryptwanie", czyli czas potrzebny na wdrożenie do systemu konputerowego, jeżeli badanie jest prowadzone metodą CAPI lub CATI, lub przygotowania wydruku w przypadku badania PAPI.]*__    
 
-4. 23-28 dzień - przeprowadzenie pilotażu;  
-5. 25-30 dzień - wprowadzanie poprawek w kwestionariuszu;   
-6. 31-36 dzień - przygotowanie alokacji próby;   
+4. 23-28 dzień - przeprowadzenie pilotażu;   
+5. 25-30 dzień - wprowadzanie poprawek w kwestionariuszu;    
+6. 31-36 dzień - przygotowanie alokacji próby;    
 
 ## 2. Kwestionariusz
 
