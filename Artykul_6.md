@@ -42,7 +42,7 @@ __*[Kwestionariusz musi byc ukończony przed złożeniem zamówienia. Opóźnien
 __*[Konsultacje kwestionariusza powinny uwzględniać równieć czas potrzebny na jego "oskryptwanie", czyli czas potrzebny na wdrożenie do systemu konputerowego, jeżeli badanie jest prowadzone metodą CAPI lub CATI, lub przygotowania wydruku w przypadku badania PAPI.]*__     
  3. 23-28 dzień - przeprowadzenie pilotażu;   
  4. 25-30 dzień - wprowadzanie poprawek w kwestionariuszu;    
- 5. 31-36 dzień - przygotowanie alokacji próby;    
+ 5. 31-36 dzień - przygotowanie alokacji próby;     
 
 ## 2. Kwestionariusz      
 Wykonawca otrzyma kwestionariusz w terminie do 5 dni kalendarzowych od momentu podpisania umowy.    
