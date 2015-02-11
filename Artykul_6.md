@@ -7,6 +7,7 @@ Badane ma na celu zdiagnozować kondycję sektora Małych i Średnich Przedsięb
   * tempo przyrostów przychodów
   * wielkość zatrudnienia
   * ...    
+
 Badanie zostanie przeprowadzona na próbie ogólnopolskiej 1000 podmiotów sektora Małych i Średnich Przedsiebiorstw przy użyciu techniki CAPI      
 __*[Alternatywnie można użyć Techniki PAPI lub CATI w zależności od poziomu trudności ankiety. CATI nadaje się tylko do  realizacji jest raczej dowolna]*__     
 
@@ -35,16 +36,16 @@ Przedsiębiorstwa zatrudniające od 1 do 299 pracowników, należace do sektoró
 
 ### 1.3 Termin realizacji    
 
-__Harmonogram realizacji ma duże znaczenie dla pomyślnego przebiegu badania. Dlatego ustalając tempo prac należy uwzględnić występowanie świąt lub okresów w których dostęp do badanej populacji może być utrudniony - wakacje i dłudzie weenendy. Szczególnie ważne jest, aby faza zbierania danych od respondentów nie "zahaczała" o żadne.__    
+__*[Harmonogram realizacji ma duże znaczenie dla pomyślnego przebiegu badania. Dlatego ustalając tempo prac należy uwzględnić występowanie świąt lub okresów w których dostęp do badanej populacji może być utrudniony - wakacje i dłudzie weenendy. Szczególnie ważne jest, aby faza zbierania danych od respondentów nie "zahaczała" o żadne.]*__    
 
 Harmonogram realicji (dzień oznacza dzień kalendarzowy po podpisaniu umowy)
 1. 1-7 dzień  Przekazanie kwestionariusza;     
 
-__Kwestionariusz musi byc ukończony przed złożeniem zamówienia. Opóźnienia w przygotowaniu kwestionariusza po stronie Zamawiającego bardzo utrudniają prawidłową realizację badania. Dlatego lepiej przekazać szybko niedokończony kwestionariusz i uzgodnić jego wykończenie.__    
+__*[Kwestionariusz musi byc ukończony przed złożeniem zamówienia. Opóźnienia w przygotowaniu kwestionariusza po stronie Zamawiającego bardzo utrudniają prawidłową realizację badania. Dlatego lepiej przekazać szybko niedokończony kwestionariusz i uzgodnić jego wykończenie.]*__    
 
 3. 8-22 dzień - konsultacje kwestionariusza;
 
-__Konsultacje kwestionariusza powinny uwzględniać równieć czas potrzebny na jego "oskryptwanie", czyli czas potrzebny na wdrożenie do systemu konputerowego, jeżeli badanie jest prowadzone metodą CAPI lub CATI, lub przygotowania wydruku w przypadku badania PAPI.__    
+__*[Konsultacje kwestionariusza powinny uwzględniać równieć czas potrzebny na jego "oskryptwanie", czyli czas potrzebny na wdrożenie do systemu konputerowego, jeżeli badanie jest prowadzone metodą CAPI lub CATI, lub przygotowania wydruku w przypadku badania PAPI.]*__    
 
 4. 23-28 dzień - przeprowadzenie pilotażu;  
 5. 25-30 dzień - wprowadzanie poprawek w kwestionariuszu;   
@@ -53,7 +54,7 @@ __Konsultacje kwestionariusza powinny uwzględniać równieć czas potrzebny na 
 ## 2. Kwestionariusz
 
 Wykonawca otrzyma kwestionariusz w terminie do 5 dni kalendarzowych od momentu podpisania umowy.   
-__Lepiej przekazać niedokończony kwestionariusz niż niepotrzebnie opóźniać jego przekazanie - i tak będzie on jeszcze zmieniany w trakcie konsulacjie__      
+__*[Lepiej przekazać niedokończony kwestionariusz niż niepotrzebnie opóźniać jego przekazanie - i tak będzie on jeszcze zmieniany w trakcie konsulacjie]*__      
 Wykonawca jest zobowiązany do przeprowadzenie konsultacji z Zamawiającym w zakresie struktury kwestionariusza. W wyniku konsultacji, za zgodą Zamawiającego, Wykonawca może wprowadzić zmiany w kwestionariuszu.
 
 ## 3. Realizacja badania
@@ -70,10 +71,10 @@ Próba zostanie dobrana przez Wykonawcę w sposób kwotowy
 Alokacja próby między warstwy będzie miała ch
 ### 3.5 Kontrola realizacji
 Zbieranie danych kontaktowych, które umożliwią sprawdzenie realizacji zamawiającemu.    
-__Trzeba pamiętać, że nigdy nie uda się zebrać danych kontaktowych od wszystkich respondentów. Mimo to trzeba się starać zebrać ich jak najwięcej.__    
+__*[Trzeba pamiętać, że nigdy nie uda się zebrać danych kontaktowych od wszystkich respondentów. Mimo to trzeba się starać zebrać ich jak najwięcej.]*__    
 
 ## 4. Poziom realizacji próby   
-__W próbach kwotowych nie da się wyznaczyć poziomu realizacji próby, ale można podją inne środki kontrolujące przebieg realizacji próby__   
+__*[W próbach kwotowych nie da się wyznaczyć poziomu realizacji próby, ale można podją inne środki kontrolujące przebieg realizacji próby]*__   
 Wykonawca jest zobowiązany dostarczać Zamawiającemu w odsetępach nawyżej 7 dni dane o realizacji badania, a więc o liczbie zrealizowanych wywiadów, regionie w którym zrealizowano wywiady
 
 ## 5. Operat    
