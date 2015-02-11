@@ -38,41 +38,33 @@ __*[Harmonogram realizacji ma duże znaczenie dla pomyślnego przebiegu badania.
 Harmonogram realicji (dzień oznacza dzień kalendarzowy po podpisaniu umowy)     
  1. 1-7 dzień  Przekazanie kwestionariusza;     
 __*[Kwestionariusz musi byc ukończony przed złożeniem zamówienia. Opóźnienia w przygotowaniu kwestionariusza po stronie Zamawiającego bardzo utrudniają prawidłową realizację badania. Dlatego lepiej przekazać szybko niedokończony kwestionariusz i uzgodnić jego wykończenie.]*__    
-
  2. 8-22 dzień - konsultacje kwestionariusza;      
 __*[Konsultacje kwestionariusza powinny uwzględniać równieć czas potrzebny na jego "oskryptwanie", czyli czas potrzebny na wdrożenie do systemu konputerowego, jeżeli badanie jest prowadzone metodą CAPI lub CATI, lub przygotowania wydruku w przypadku badania PAPI.]*__     
  3. 23-28 dzień - przeprowadzenie pilotażu;   
  4. 25-30 dzień - wprowadzanie poprawek w kwestionariuszu;    
  5. 31-36 dzień - przygotowanie alokacji próby;    
 
-## 2. Kwestionariusz
-
-Wykonawca otrzyma kwestionariusz w terminie do 5 dni kalendarzowych od momentu podpisania umowy.   
+## 2. Kwestionariusz      
+Wykonawca otrzyma kwestionariusz w terminie do 5 dni kalendarzowych od momentu podpisania umowy.    
 __*[Lepiej przekazać niedokończony kwestionariusz niż niepotrzebnie opóźniać jego przekazanie - i tak będzie on jeszcze zmieniany w trakcie konsulacjie]*__      
-Wykonawca jest zobowiązany do przeprowadzenie konsultacji z Zamawiającym w zakresie struktury kwestionariusza. W wyniku konsultacji, za zgodą Zamawiającego, Wykonawca może wprowadzić zmiany w kwestionariuszu.
+Wykonawca jest zobowiązany do przeprowadzenie konsultacji z Zamawiającym w zakresie struktury kwestionariusza. W wyniku konsultacji, za zgodą Zamawiającego, Wykonawca może wprowadzić zmiany w kwestionariuszu.     
 
-## 3. Realizacja badania
-
-### 3.1 Technika zbierania danych
-Badanie zostanie przeprowadzone techniką CATI (_Computer Assisted Telephone Interview_) z przedstawicielami 1000 przedsiębiorstw należących do sektora MiŚP
-
-### 3.2 Metoda doboru próby
-Próba zostanie dobrana przez Wykonawcę w sposób kwotowy
-
-### 3.3 Warstwy 
-
-### 3.4 Alokacja
-Alokacja próby między warstwy będzie miała ch
-### 3.5 Kontrola realizacji
+## 3. Realizacja badania       
+### 3.1 Technika zbierania danych     
+Badanie zostanie przeprowadzone techniką CATI (_Computer Assisted Telephone Interview_) z przedstawicielami 1000 przedsiębiorstw należących do sektora MiŚP        
+### 3.2 Metoda doboru próby     
+Próba zostanie dobrana przez Wykonawcę w sposób kwotowy       
+### 3.3 Warstwy        
+### 3.4 Alokacja     
+Alokacja próby między warstwy będzie miała charakter proporcjonalny    
+### 3.5 Kontrola realizacji        
 Zbieranie danych kontaktowych, które umożliwią sprawdzenie realizacji zamawiającemu.    
 __*[Trzeba pamiętać, że nigdy nie uda się zebrać danych kontaktowych od wszystkich respondentów. Mimo to trzeba się starać zebrać ich jak najwięcej.]*__    
+## 4. Poziom realizacji próby     
+Wykonawca jest zobowiązany dostarczać Zamawiającemu w odsetępach nawyżej 7 dni dane o realizacji badania, a więc o liczbie zrealizowanych wywiadów, regionie w którym zrealizowano wywiady.     
+__*[W próbach kwotowych nie da się wyznaczyć poziomu realizacji próby, ale można podją inne środki kontrolujące przebieg realizacji próby]*__       
+## 5. Operat      
+Ze względu na kwotowy charakter próby w badaniu nie jest potrzebny operat losowy. Podstę dla doboru próby stanowi baza REGON należąca do Głównego Urzędu Statystycznego    
+## 6. Raport      
+Wykonawca jest zobowiązany do przytotowania raportu.     
 
-## 4. Poziom realizacji próby    
-Wykonawca jest zobowiązany dostarczać Zamawiającemu w odsetępach nawyżej 7 dni dane o realizacji badania, a więc o liczbie zrealizowanych wywiadów, regionie w którym zrealizowano wywiady.    
-__*[W próbach kwotowych nie da się wyznaczyć poziomu realizacji próby, ale można podją inne środki kontrolujące przebieg realizacji próby]*__  
-
-## 5. Operat    
-Ze względu na kwotowy charakter próby w badaniu nie jest potrzebny operat losowy. Podstę dla doboru próby stanowi baza REGON należąca do Głównego Urzędu Statystycznego
-
-## 6. Raport
-Wykonawca jest zobowiązany do przytotowania raportu.
