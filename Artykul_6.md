@@ -8,7 +8,7 @@ Badane ma na celu zdiagnozować kondycję sektora Małych i Średnich Przedsięb
   * wielkość zatrudnienia
   * ...    
 Badanie zostanie przeprowadzona na próbie ogólnopolskiej 1000 podmiotów sektora Małych i Średnich Przedsiebiorstw przy użyciu techniki CAPI      
-__Alternatywnie można użyć Techniki PAPI lub CATI w zależności od poziomu trudności ankiety. CATI nadaje się tylko do  realizacji jest raczej dowolna__     
+__*[Alternatywnie można użyć Techniki PAPI lub CATI w zależności od poziomu trudności ankiety. CATI nadaje się tylko do  realizacji jest raczej dowolna]*__     
 
 ### 1.2 Populacja
 Badaną populacją są przedsiębiorstwa sektora MiŚ. 
@@ -36,11 +36,14 @@ Przedsiębiorstwa zatrudniające od 1 do 299 pracowników, należace do sektoró
 ### 1.3 Termin realizacji    
 
 __Harmonogram realizacji ma duże znaczenie dla pomyślnego przebiegu badania. Dlatego ustalając tempo prac należy uwzględnić występowanie świąt lub okresów w których dostęp do badanej populacji może być utrudniony - wakacje i dłudzie weenendy. Szczególnie ważne jest, aby faza zbierania danych od respondentów nie "zahaczała" o żadne.__    
+
 Harmonogram realicji (dzień oznacza dzień kalendarzowy po podpisaniu umowy)
 1. 1-7 dzień  Przekazanie kwestionariusza;     
+
 __Kwestionariusz musi byc ukończony przed złożeniem zamówienia. Opóźnienia w przygotowaniu kwestionariusza po stronie Zamawiającego bardzo utrudniają prawidłową realizację badania. Dlatego lepiej przekazać szybko niedokończony kwestionariusz i uzgodnić jego wykończenie __    
 
 3. 8-22 dzień - konsultacje kwestionariusza;
+
 __Konsultacje kwestionariusza powinny uwzględniać równieć czas potrzebny na jego "oskryptwanie", czyli czas potrzebny na wdrożenie do systemu konputerowego, jeżeli badanie jest prowadzone metodą CAPI lub CATI, lub przygotowania wydruku w przypadku badania PAPI.__    
 
 4. 23-28 dzień - przeprowadzenie pilotażu;  
