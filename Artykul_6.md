@@ -7,6 +7,7 @@ Badane ma na celu zdiagnozować kondycję sektora Małych i Średnich Przedsięb
   * tempo przyrostów przychodów
   * wielkość zatrudnienia
   * ...    
+
 Badanie zostanie przeprowadzona na próbie ogólnopolskiej 1000 podmiotów sektora Małych i Średnich Przedsiebiorstw przy użyciu techniki CAPI      
 __*[Alternatywnie można użyć Techniki PAPI lub CATI w zależności od poziomu trudności ankiety. CATI nadaje się tylko do  realizacji jest raczej dowolna]*__     
 
@@ -32,11 +33,8 @@ Przedsiębiorstwa zatrudniające od 1 do 299 pracowników, należace do sektoró
   * działalności związanej z kulturą, rozrywką i rekreacją;
   * naprawy i konserwacji komputerów i artykułów użytku osobistego i domowego; pozostałej indywidualnej działalności usługowej.    
 
-
-### 1.3 Termin realizacji    
-
-__*[Harmonogram realizacji ma duże znaczenie dla pomyślnego przebiegu badania. Dlatego ustalając tempo prac należy uwzględnić występowanie świąt lub okresów w których dostęp do badanej populacji może być utrudniony - wakacje i dłudzie weenendy. Szczególnie ważne jest, aby faza zbierania danych od respondentów nie "zahaczała" o żadne.]*__    
-
+### 1.3 Termin realizacji     
+__*[Harmonogram realizacji ma duże znaczenie dla pomyślnego przebiegu badania. Dlatego ustalając tempo prac należy uwzględnić występowanie świąt lub okresów w których dostęp do badanej populacji może być utrudniony - wakacje i dłudzie weenendy. Szczególnie ważne jest, aby faza zbierania danych od respondentów nie "zahaczała" o żadne.]*__     
 Harmonogram realicji (dzień oznacza dzień kalendarzowy po podpisaniu umowy)     
  1. 1-7 dzień  Przekazanie kwestionariusza;     
 __*[Kwestionariusz musi byc ukończony przed złożeniem zamówienia. Opóźnienia w przygotowaniu kwestionariusza po stronie Zamawiającego bardzo utrudniają prawidłową realizację badania. Dlatego lepiej przekazać szybko niedokończony kwestionariusz i uzgodnić jego wykończenie.]*__    
