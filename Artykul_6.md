@@ -1,14 +1,14 @@
 # 6. Badanie face-to-face na przedsiębiorcach  
 
 # Opis Przedmiotu Zamówienia
-## 1. Cel badania
-### 1.1 Opis badania
+## 1. Cel badania    
+### 1.1 Opis badania    
 Badane ma na celu zdiagnozować kondycję sektora Małych i Średnich Przedsiębiorstw (MiŚ), a w szczególności:  
   * tempo przyrostów przychodów
   * wielkość zatrudnienia
-  * ...
-Badanie zostanie przeprowadzona na próbie ogólnopolskiej 1000 podmiotów sektora Małych i Średnich Przedsiebiorstw przy użyciu techniki CAPI    
-__Alternatywnie można użyć Techniki PAPI lub CATI w zależności od poziomu trudności ankiety. CATI nadaje się tylko do  realizacji jest raczej dowolna__    
+  * ...    
+Badanie zostanie przeprowadzona na próbie ogólnopolskiej 1000 podmiotów sektora Małych i Średnich Przedsiebiorstw przy użyciu techniki CAPI      
+__Alternatywnie można użyć Techniki PAPI lub CATI w zależności od poziomu trudności ankiety. CATI nadaje się tylko do  realizacji jest raczej dowolna__     
 ### 1.2 Populacja
 Badaną populacją są przedsiębiorstwa sektora MiŚ. 
 Przedsiębiorstwa zatrudniające od 1 do 299 pracowników, należace do sektorów:    
