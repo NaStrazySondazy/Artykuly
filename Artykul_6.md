@@ -55,7 +55,7 @@ Badanie zostanie przeprowadzone techniką CATI (_Computer Assisted Telephone Int
 ### 3.2 Metoda doboru próby     
 Próba zostanie dobrana przez Wykonawcę w sposób kwotowy       
 ### 3.3 Warstwy        
-### 3.4 Alokacja     
+### 3.4 Alokacja      
 Alokacja próby między warstwy będzie miała charakter proporcjonalny    
 ### 3.5 Kontrola realizacji        
 Zbieranie danych kontaktowych, które umożliwią sprawdzenie realizacji zamawiającemu.    
