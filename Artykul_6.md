@@ -9,6 +9,7 @@ Badane ma na celu zdiagnozować kondycję sektora Małych i Średnich Przedsięb
   * ...    
 Badanie zostanie przeprowadzona na próbie ogólnopolskiej 1000 podmiotów sektora Małych i Średnich Przedsiebiorstw przy użyciu techniki CAPI      
 __Alternatywnie można użyć Techniki PAPI lub CATI w zależności od poziomu trudności ankiety. CATI nadaje się tylko do  realizacji jest raczej dowolna__     
+
 ### 1.2 Populacja
 Badaną populacją są przedsiębiorstwa sektora MiŚ. 
 Przedsiębiorstwa zatrudniające od 1 do 299 pracowników, należace do sektorów:    
