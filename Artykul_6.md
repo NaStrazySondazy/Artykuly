@@ -73,9 +73,9 @@ Alokacja próby między warstwy będzie miała ch
 Zbieranie danych kontaktowych, które umożliwią sprawdzenie realizacji zamawiającemu.    
 __*[Trzeba pamiętać, że nigdy nie uda się zebrać danych kontaktowych od wszystkich respondentów. Mimo to trzeba się starać zebrać ich jak najwięcej.]*__    
 
-## 4. Poziom realizacji próby   
-__*[W próbach kwotowych nie da się wyznaczyć poziomu realizacji próby, ale można podją inne środki kontrolujące przebieg realizacji próby]*__   
-Wykonawca jest zobowiązany dostarczać Zamawiającemu w odsetępach nawyżej 7 dni dane o realizacji badania, a więc o liczbie zrealizowanych wywiadów, regionie w którym zrealizowano wywiady
+## 4. Poziom realizacji próby    
+Wykonawca jest zobowiązany dostarczać Zamawiającemu w odsetępach nawyżej 7 dni dane o realizacji badania, a więc o liczbie zrealizowanych wywiadów, regionie w którym zrealizowano wywiady.    
+__*[W próbach kwotowych nie da się wyznaczyć poziomu realizacji próby, ale można podją inne środki kontrolujące przebieg realizacji próby]*__  
 
 ## 5. Operat    
 Ze względu na kwotowy charakter próby w badaniu nie jest potrzebny operat losowy. Podstę dla doboru próby stanowi baza REGON należąca do Głównego Urzędu Statystycznego
