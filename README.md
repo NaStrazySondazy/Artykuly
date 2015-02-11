@@ -6,6 +6,6 @@
 5. Badanie telefoniczne na przedsiębiorcach
 6. Badanie face-to-face na przedsiębiorcach
 7. Badanie kwestii drażliwych (może internet, techniki niebezpośrednie, długość wywiadu)
-8. Badanie na próbie systematycznej
+8. Badanie na próbie systematycznej (badanie satysfakcji konsumentów/klientów/petentów/pacjentów)
 9. Badanie przez internet
 10. Ewaluacja programów
