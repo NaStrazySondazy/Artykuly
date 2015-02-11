@@ -38,16 +38,15 @@ Przedsiębiorstwa zatrudniające od 1 do 299 pracowników, należace do sektoró
 
 __*[Harmonogram realizacji ma duże znaczenie dla pomyślnego przebiegu badania. Dlatego ustalając tempo prac należy uwzględnić występowanie świąt lub okresów w których dostęp do badanej populacji może być utrudniony - wakacje i dłudzie weenendy. Szczególnie ważne jest, aby faza zbierania danych od respondentów nie "zahaczała" o żadne.]*__    
 
-Harmonogram realicji (dzień oznacza dzień kalendarzowy po podpisaniu umowy)   
-1. 1-7 dzień  Przekazanie kwestionariusza;     
+Harmonogram realicji (dzień oznacza dzień kalendarzowy po podpisaniu umowy)     
+ 1. 1-7 dzień  Przekazanie kwestionariusza;     
 __*[Kwestionariusz musi byc ukończony przed złożeniem zamówienia. Opóźnienia w przygotowaniu kwestionariusza po stronie Zamawiającego bardzo utrudniają prawidłową realizację badania. Dlatego lepiej przekazać szybko niedokończony kwestionariusz i uzgodnić jego wykończenie.]*__    
 
-3. 8-22 dzień - konsultacje kwestionariusza;      
-__*[Konsultacje kwestionariusza powinny uwzględniać równieć czas potrzebny na jego "oskryptwanie", czyli czas potrzebny na wdrożenie do systemu konputerowego, jeżeli badanie jest prowadzone metodą CAPI lub CATI, lub przygotowania wydruku w przypadku badania PAPI.]*__    
-
-4. 23-28 dzień - przeprowadzenie pilotażu;   
-5. 25-30 dzień - wprowadzanie poprawek w kwestionariuszu;    
-6. 31-36 dzień - przygotowanie alokacji próby;    
+ 2. 8-22 dzień - konsultacje kwestionariusza;      
+__*[Konsultacje kwestionariusza powinny uwzględniać równieć czas potrzebny na jego "oskryptwanie", czyli czas potrzebny na wdrożenie do systemu konputerowego, jeżeli badanie jest prowadzone metodą CAPI lub CATI, lub przygotowania wydruku w przypadku badania PAPI.]*__     
+ 3. 23-28 dzień - przeprowadzenie pilotażu;   
+ 4. 25-30 dzień - wprowadzanie poprawek w kwestionariuszu;    
+ 5. 31-36 dzień - przygotowanie alokacji próby;    
 
 ## 2. Kwestionariusz
 
