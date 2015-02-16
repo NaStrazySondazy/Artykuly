@@ -71,8 +71,14 @@ Alokacja próby między warstwy będzie miała charakter proporcjonalny do ich l
 |zachodniopomorskie	 |21	           |16	           |2        	|2	                |4             |45     |
 | Razem              |467	          |355           |38        |55                |85            |1000   |
 
+Dodatkowo Wykonawca jest zobowiązany do zrealizowania następującej liczby wywiadów w trzech grupach przedsiębiorstw wyznaczonych ze względu na liczbę zatrudnionyhc:        
+ * Przedsiębiorsta liczące mniej niż .... - 
+ * Przedsiębiorstwa liczące nie mniej niż ... i nie więcej niż .... - 
+ * Przedsiębiorstwa liczące nie mniej niż .... - 
+
 ## 3.3. Metoda doboru próby     
 Wykonawca dobierze próbe kwotową 1000 podmiotów należących do sektora MiŚP. Kwoty musza być zgodne z alokacją przedstawioną powyżej. Różnice między wielkością kwoty zamówionej i zrealiowanej nie mogą być większe niż 10%. Przykładowo dla kwoty warstwy do której należy dobrać 50 przedsiębiorstw liczba zrealizowanych wywiadów powinna wynosić nie mniej niż 45 i nie więcej niż 55.      
+Dodatkowo Wykonawca jest zobowiązany do zrealizowania minimum 20% z przedsiębiorstwami mającymi swoją siedzibę w 
 ## 3.5 Kontrola realizacji        
 Wykonawca jest zobowiązany zbierać dane rejestrować wszystkie podmioty, z którymi podjął próbe kontaktu niezeżnie od tego, czy udało się z nimi przeprowadzić wywiady czy nie.
 Lista podmiotów powinaa mieć następującą konstrukcję:
@@ -86,7 +92,13 @@ __*[Trzeba pamiętać, że nigdy nie uda się zebrać danych kontaktowych od wsz
 Wykonawca jest zobowiązany dostarczać Zamawiającemu w odsetępach nawyżej 7 dni dane o realizacji badania, a więc o liczbie zrealizowanych wywiadów, regionie w którym zrealizowano wywiady.     
 __*[W próbach kwotowych nie da się wyznaczyć poziomu realizacji próby, ale można podją inne środki kontrolujące przebieg realizacji próby]*__       
 # 5. Operat      
-Ze względu na kwotowy charakter próby w badaniu nie jest potrzebny operat losowy. Podstę dla doboru próby stanowi baza REGON należąca do Głównego Urzędu Statystycznego    
+Ze względu na kwotowy charakter próby w badaniu nie jest potrzebny operat losowy. Podstę dla doboru próby stanowi baza REGON należąca do Głównego Urzędu Statystycznego na podstawie której klasyfikuje się podmnioty ze względu na sekcje PKD 2007. Wykonawca może dobierać podmioty gospodarcze z książek adresowych ogłoszeń lub w inny sposób, który umożliwi dobrani
+
 # 6. Raport      
-Wykonawca jest zobowiązany do przytotowania raportu.     
+Wykonawca jest zobowiązany do przytotowania raportu, który będzie się składał z następujących części:     
+ 1. Opis populacji;
+ 2. Opis doboru próby;
+ 3. Opis realizacji próby;
+ 3. Część analityczna - odpowiedź na pytania badawcze;
+ 4. Wnioski kończowe.
 
