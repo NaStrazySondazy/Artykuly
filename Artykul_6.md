@@ -1,6 +1,8 @@
-# 6. Badanie face-to-face na przedsiębiorcach  
+ 
+---
+Title:  Opis Przedmiotu Zamówienia - 6. Badanie face-to-face na przedsiębiorcach 
+---
 
-# Opis Przedmiotu Zamówienia
 ## 1. Cel badania    
 ### 1.1 Opis badania    
 Badane ma na celu zdiagnozować kondycję sektora Małych i Średnich Przedsiębiorstw (MiŚ). W szczególności chodzi o: 
