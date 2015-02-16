@@ -1,10 +1,10 @@
  
 ---
-Title:  Opis Przedmiotu Zamówienia - 6. Badanie face-to-face na przedsiębiorcach 
+Opis Przedmiotu Zamówienia - 6. Badanie face-to-face na przedsiębiorcach 
 ---
 
-## 1. Cel badania    
-### 1.1 Opis badania    
+# 1. Cel badania    
+## 1.1 Opis badania    
 Badane ma na celu zdiagnozować kondycję sektora Małych i Średnich Przedsiębiorstw (MiŚ). W szczególności chodzi o: 
   * tempo przyrostów przychodów;
   * wielkość zatrudnienia;
@@ -12,7 +12,7 @@ Badane ma na celu zdiagnozować kondycję sektora Małych i Średnich Przedsięb
   * wartość inwestycji w bierzącym roku;     
 Badanie zostanie przeprowadzona na próbie ogólnopolskiej 1000 podmiotów sektora Małych i Średnich Przedsiebiorstw przy użyciu techniki CAPI      
 __*[Techniki CAPI może zostać użyta zamienne z techniką PAPI w zależności od poziomu trudności ankiety. Trudniejsze ankiety - dłuższe, zawierające więcej pytań - powinny być realizowane techniką CAPI]*__      
-### 1.2 Populacja
+## 1.2 Populacja
 Badaną populacją są podmioty gospodarcze należace do sektora małych i średnich przedsiębiorstw (MiŚP) zatrudniających od 1 do 299 pracowników. Badaniem objęte zostaną przedsiębiorstwa należace do następujących sektorów Polskiej Klasyfikacji Działalności (PKD 2007):
   1. Sekcja C – Przetwórstwo przemysłowe;    
   2. Sekcja F – Budownictwo;     
@@ -25,7 +25,7 @@ Badaną populacją są podmioty gospodarcze należace do sektora małych i śred
   9. Sekcja M – Działalność profesjonalna, naukowa i techniczna;     
   10. Sekcja N – Działalność w zakresie usług administrowania i działalność wspierająca;     
 
-### 1.3 Termin realizacji     
+## 1.3 Termin realizacji     
 Wykonawca ma 100 dni kalendarzowych na zrealizowanie zamówienia. 
 __*[Harmonogram realizacji ma duże znaczenie dla pomyślnego przebiegu badania. Dlatego ustalając tempo prac należy uwzględnić występowanie świąt lub okresów w których dostęp do badanej populacji może być utrudniony - wakacje i dłudzie weenendy. Szczególnie ważne jest, aby faza zbierania danych od respondentów nie "zahaczała" o żadne.]*__     
 Zamówienie musi zostać zrealizowane zgodnie z poniższym harmonogramem (dzień oznacza dzień kalendarzowy po podpisaniu umowy):     
@@ -39,15 +39,15 @@ __*[Konsultacje kwestionariusza powinny uwzględniać równieć czas potrzebny n
  6. 91-99 dzień - przygotowanie raportu z realizacji badania
  6. 100 - przekazanie raportu wraz ze zbiorem danych
 
-## 2. Kwestionariusz      
+# 2. Kwestionariusz      
 Wykonawca otrzyma kwestionariusz w terminie do 7 dni kalendarzowych od momentu podpisania umowy.    
 __*[Lepiej przekazać niedokończony kwestionariusz niż niepotrzebnie opóźniać jego przekazanie - i tak będzie on jeszcze zmieniany w trakcie konsulacji]*__      
 Wykonawca jest zobowiązany do przeprowadzenie konsultacji z Zamawiającym w zakresie struktury kwestionariusza. W wyniku konsultacji, za zgodą Zamawiającego, Wykonawca może wprowadzić zmiany w kwestionariuszu.     
 
-## 3. Realizacja badania       
-### 3.1 Technika zbierania danych     
+# 3. Realizacja badania       
+## 3.1 Technika zbierania danych     
 Badanie zostanie przeprowadzone techniką CATI (_Computer Assisted Telephone Interview_) z przedstawicielami 1000 przedsiębiorstw należących do sektora MiŚP        
-### 3.2. Warstwy i alokacja
+## 3.2. Warstwy i alokacja
 Warstwy zostaną utworzone ze skrzyżowania województwa i połączonych sekcji PKD 2007      
 Alokacja próby między warstwy będzie miała charakter proporcjonalny do ich liczebności
 
@@ -71,16 +71,22 @@ Alokacja próby między warstwy będzie miała charakter proporcjonalny do ich l
 |zachodniopomorskie	 |21	           |16	           |2        	|2	                |4             |45     |
 | Razem              |467	          |355           |38        |55                |85            |1000   |
 
-### 3.3. Metoda doboru próby     
+## 3.3. Metoda doboru próby     
 Wykonawca dobierze próbe kwotową 1000 podmiotów należących do sektora MiŚP. Kwoty musza być zgodne z alokacją przedstawioną powyżej. Różnice między wielkością kwoty zamówionej i zrealiowanej nie mogą być większe niż 10%. Przykładowo dla kwoty warstwy do której należy dobrać 50 przedsiębiorstw liczba zrealizowanych wywiadów powinna wynosić nie mniej niż 45 i nie więcej niż 55.      
-### 3.5 Kontrola realizacji        
-Zbieranie danych kontaktowych, które umożliwią sprawdzenie realizacji zamawiającemu.    
+## 3.5 Kontrola realizacji        
+Wykonawca jest zobowiązany zbierać dane rejestrować wszystkie podmioty, z którymi podjął próbe kontaktu niezeżnie od tego, czy udało się z nimi przeprowadzić wywiady czy nie.
+Lista podmiotów powinaa mieć następującą konstrukcję:
+
+| L.p. | Nazwa podmiotu | Miejscowość | ulica i nr budynku | Telefon kontaktowy | Adres e-mail* | Gmina | Powiat | ojewództwo|
+|------|----------------|-------------|--------------------|--------------------|---------------|-------|--------|--------|
+|1.    |                |             |                    |                    |               |       |        |        |
+
 __*[Trzeba pamiętać, że nigdy nie uda się zebrać danych kontaktowych od wszystkich respondentów. Mimo to trzeba się starać zebrać ich jak najwięcej.]*__    
-## 4. Poziom realizacji próby     
+# 4. Poziom realizacji próby     
 Wykonawca jest zobowiązany dostarczać Zamawiającemu w odsetępach nawyżej 7 dni dane o realizacji badania, a więc o liczbie zrealizowanych wywiadów, regionie w którym zrealizowano wywiady.     
 __*[W próbach kwotowych nie da się wyznaczyć poziomu realizacji próby, ale można podją inne środki kontrolujące przebieg realizacji próby]*__       
-## 5. Operat      
+# 5. Operat      
 Ze względu na kwotowy charakter próby w badaniu nie jest potrzebny operat losowy. Podstę dla doboru próby stanowi baza REGON należąca do Głównego Urzędu Statystycznego    
-## 6. Raport      
+# 6. Raport      
 Wykonawca jest zobowiązany do przytotowania raportu.     
 
