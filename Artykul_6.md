@@ -65,6 +65,7 @@ Warstwy zostaną utworzone ze skrzyżowania województwa i połączonych sekcji 
 | pomorskie           |
 | śląskie             |
 | świętokrzyskie      |
+| warmińsko-mazurskie |
 | wielkopolskie       |
 | zachodniopomorskie  |
 
