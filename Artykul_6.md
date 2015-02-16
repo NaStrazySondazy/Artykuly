@@ -50,24 +50,25 @@ Próba kwotowa przedstawicieli podmiotów należących do sektora MiŚP zostanie
 ### 3.3 Warstwy       
 Warstwy zostaną utworzone ze skrzyżowania województwa i połączonych sekcji PKD 2007      
 
-| województwo         | Sekcje C & F | Sekcje G & H | Sekcja I | Sekcje J & K & L | Sekcje M & N |
-----------------------|--------------|--------------|----------|------------------|--------------|
-| dolnośląskie        |
-| kujawsko-pomorskie  |
-| lubelskie           |
-| lubuskie            |
-| łódzkie             |
-| małopolskie         |
-| mazowieckie         |
-| opolskie            |
-| podkarpackie        |
-| podlaskie           |
-| pomorskie           |
-| śląskie             |
-| świętokrzyskie      |
-| warmińsko-mazurskie |
-| wielkopolskie       |
-| zachodniopomorskie  |
+|województwo	        |Sekcje C & F	 | Sekcje G & H | Sekcja I |	Sekcje J & K & L |	Sekcje M & N | Razem |
+|--------------------|--------------|--------------|----------|------------------|--------------|-------|
+|dolnośląskie	       |35	           |27	           |3	        |4	                |6             |75     |
+|kujawsko-pomorskie  |25	           |19	           |2        	|3                	|5             |54     |
+|lubelskie	          |26	           |20	           |2	        |3                	|5             |56     |
+|lubuskie	           |12	           |9	            |1	        |1                	|2             |25     |
+|łódzkie	            |31	           |23	           |2        	|4	                |5             |65     |
+|małopolskie	        |41	           |31	           |3        	|5                	|7             |87     |
+|mazowieckie	        |64            |49 	          |5	        |8                	|12            |138    |
+|opolskie	           |12	           |9	            |2	        |1                	|2             |26     |
+|podkarpackie	       |26	           |20	           |2        	|3                	|5             |56     |
+|podlaskie	          |15	           |11	           |2        	|2	                |3             |33     |
+|pomorskie	          |28	           |21	           |2        	|3                	|5             |59     |
+|śląskie	            |56	           |43	           |4        	|7                	|10            |120    |
+|świętokrzyskie	     |15            |12           	|2	        |2                	|3             |34     |
+|warmińsko-mazurskie |18	           |13	           |1	        |2                 |3             |37     |
+|wielkopolskie	      |42	           |32	           |3         |5                	|8             |90     |
+|zachodniopomorskie	 |21	           |16	           |2        	|2	                |4             |45     |
+| Razem              |467	          |355           |38        |55                |85            |1000   |
 
 
 ### 3.4 Alokacja      
