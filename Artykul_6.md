@@ -3,37 +3,31 @@
 # Opis Przedmiotu Zamówienia
 ## 1. Cel badania    
 ### 1.1 Opis badania    
-Badane ma na celu zdiagnozować kondycję sektora Małych i Średnich Przedsiębiorstw (MiŚ), a w szczególności:  
-  * tempo przyrostów przychodów
-  * wielkość zatrudnienia
-  * ...    
-
+Badane ma na celu zdiagnozować kondycję sektora Małych i Średnich Przedsiębiorstw (MiŚ). W szczególności chodzi o: 
+  * tempo przyrostów przychodów;
+  * wielkość zatrudnienia;
+  * koszty związaneh z wynagrodzeniami pracowników;
+  * wartość inwestycji w bierzącym roku;     
 Badanie zostanie przeprowadzona na próbie ogólnopolskiej 1000 podmiotów sektora Małych i Średnich Przedsiebiorstw przy użyciu techniki CAPI      
-__*[Alternatywnie można użyć Techniki PAPI lub CATI w zależności od poziomu trudności ankiety. CATI nadaje się tylko do  realizacji jest raczej dowolna]*__     
-
+__*[Techniki CAPI może zostać użyta zamienne z techniką PAPI w zależności od poziomu trudności ankiety. Trudniejsze ankiety - dłuższe, zawierające więcej pytań - powinny być realizowane techniką CAPI]*__      
 ### 1.2 Populacja
-Badaną populacją są przedsiębiorstwa sektora MiŚ. 
-Przedsiębiorstwa zatrudniające od 1 do 299 pracowników, należace do sektorów:    
-  * leśnictwa i pozyskiwania drewna;
-  * rybołówstwa w wodach morskich;
-  * górnictwa i wydobywania;
-  * przetwórstwa przemysłowego;
-  * wytwarzania i zaopatrywania w energię elektryczną, gaz, parę wodną, gorącą wodę i powietrze do układów klimatyzacyjnych;
-  * dostawy wody; gospodarowania ściekami i odpadami oraz działalności związanej z rekultywacją;
-  * budownictwa;
-  * handlu hurtowego i detalicznego; naprawy pojazdów samochodowych, włączając motocykle;
-  * transportu i gospodarki magazynowej;
-  * działalności związanej z zakwaterowaniem i usługami gastronomicznymi;
-  * informacji i komunikacji;
-  * działalności związanej z obsługą rynku nieruchomości;
-  * działalności prawniczej, rachunkowo-księgowej i doradztwa podatkowego, działalności firm centralnych (head offices);
-  * doradztwa związanego z zarządzaniem; działalności w zakresie architektury i inżynierii; badań i analiz technicznych;
-  * reklamy, badania rynku i opinii publicznej; pozostałej działalności profesjonalnej, naukowej i technicznej;
-  * działalności w zakresie usług administrowania i działalności wspierającej;
-  * działalności związanej z kulturą, rozrywką i rekreacją;
-  * naprawy i konserwacji komputerów i artykułów użytku osobistego i domowego; pozostałej indywidualnej działalności usługowej.    
+Badaną populacją są podmioty gospodarcze należace do sektora małych i średnich przedsiębiorstw (MiŚP) zatrudniających od 1 do 299 pracowników. Badaniem objęte zostaną przedsiębiorstwa należace do następujących sektorów Polskiej Klasyfikacji Działalności (PKD 2007):
+  1. Sekcja C – Przetwórstwo przemysłowe;    
+  2. Sekcja F – Budownictwo;     
+  3. Sekcja G – Handel hurtowy i detaliczny; naprawa pojazdów samochodowych, włączając motocykle;      
+  4. Sekcja H – Transport i gospodarka magazynowa;     
+  5. Sekcja I – Działalność związana z zakwaterowaniem i usługami gastronomicznymi;    
+  6. Sekcja J – Informacja i komunikacja;    
+  7. Sekcja K – Działalność finansowa i ubezpieczeniowa;     
+  8. Sekcja L – Działalność związana z obsługą rynku nieruchomości;    
+  9. Sekcja M – Działalność profesjonalna, naukowa i techniczna;     
+  10. Sekcja N – Działalność w zakresie usług administrowania i działalność wspierająca;     
+  11. Sekcja P – Edukacja;     
+  12. Sekcja Q – Opieka zdrowotna i pomoc społeczna;     
+  13. Sekcja R – Działalność związana z kulturą, rozrywką i rekreacją;    
 
 ### 1.3 Termin realizacji     
+Wykonawca ma 100 dni kalendarzowych na zrealizowanie zamówienia. 
 __*[Harmonogram realizacji ma duże znaczenie dla pomyślnego przebiegu badania. Dlatego ustalając tempo prac należy uwzględnić występowanie świąt lub okresów w których dostęp do badanej populacji może być utrudniony - wakacje i dłudzie weenendy. Szczególnie ważne jest, aby faza zbierania danych od respondentów nie "zahaczała" o żadne.]*__     
 Harmonogram realicji (dzień oznacza dzień kalendarzowy po podpisaniu umowy):     
  1. 1-7 dzień - przekazanie kwestionariusza;     
@@ -42,7 +36,8 @@ __*[Kwestionariusz musi byc ukończony przed złożeniem zamówienia. Opóźnien
 __*[Konsultacje kwestionariusza powinny uwzględniać równieć czas potrzebny na jego "oskryptwanie", czyli czas potrzebny na wdrożenie do systemu konputerowego, jeżeli badanie jest prowadzone metodą CAPI lub CATI, lub przygotowania wydruku w przypadku badania PAPI.]*__     
  3. 23-28 dzień - przeprowadzenie pilotażu;   
  4. 25-30 dzień - wprowadzanie poprawek w kwestionariuszu;    
- 5. 31-36 dzień - przygotowanie alokacji próby;     
+ 5. 31-36 dzień - przygotowanie alokacji próby; 
+ 6. 
 
 ## 2. Kwestionariusz      
 Wykonawca otrzyma kwestionariusz w terminie do 5 dni kalendarzowych od momentu podpisania umowy.    
