@@ -45,10 +45,9 @@ Wykonawca jest zobowiązany do przeprowadzenie konsultacji z Zamawiającym w zak
 ## 3. Realizacja badania       
 ### 3.1 Technika zbierania danych     
 Badanie zostanie przeprowadzone techniką CATI (_Computer Assisted Telephone Interview_) z przedstawicielami 1000 przedsiębiorstw należących do sektora MiŚP        
-### 3.2 Metoda doboru próby     
-Próba kwotowa przedstawicieli podmiotów należących do sektora MiŚP zostanie dobrana przez Wykonawcę
-### 3.3 Warstwy       
+### 3.2. Warstwy i alokacja
 Warstwy zostaną utworzone ze skrzyżowania województwa i połączonych sekcji PKD 2007      
+Alokacja próby między warstwy będzie miała charakter proporcjonalny do ich liczebności
 
 |województwo	        |Sekcje C & F	 | Sekcje G & H | Sekcja I |	Sekcje J & K & L |	Sekcje M & N | Razem |
 |--------------------|--------------|--------------|----------|------------------|--------------|-------|
@@ -70,10 +69,8 @@ Warstwy zostaną utworzone ze skrzyżowania województwa i połączonych sekcji 
 |zachodniopomorskie	 |21	           |16	           |2        	|2	                |4             |45     |
 | Razem              |467	          |355           |38        |55                |85            |1000   |
 
-
-### 3.4 Alokacja      
-Alokacja próby między warstwy będzie miała charakter proporcjonalny do ich liczebności
-
+### 3.3. Metoda doboru próby     
+Wykonawca dobierze próbe kwotową 1000 podmiotów należących do sektora MiŚP. Kwoty musza być zgodne z alokacją przedstawioną powyżej. Różnice między wielkością kwoty zamówionej i zrealiowanej nie mogą być większe niż 10%. Przykładowo dla kwoty warstwy do której należy dobrać 50 przedsiębiorstw liczba zrealizowanych wywiadów powinna wynosić nie mniej niż 45 i nie więcej niż 55.      
 ### 3.5 Kontrola realizacji        
 Zbieranie danych kontaktowych, które umożliwią sprawdzenie realizacji zamawiającemu.    
 __*[Trzeba pamiętać, że nigdy nie uda się zebrać danych kontaktowych od wszystkich respondentów. Mimo to trzeba się starać zebrać ich jak najwięcej.]*__    
