@@ -21,11 +21,12 @@ Harmonogram realicji (w dniach kalendarzowych):
   * 1-14 konsultacje kwestionariusza; __*[konsultacje kwesionariusza trwają zawsze dłużej niż ]*__
   * 15-28 przygotowanie ankiety w wersji CAPI;
   * 29-49 realizacja 500 wywiadów z uczestniczkami badania;
-  * 50-62  
+  * 50-62     
 ## 2. Kwestionariusz      
 Wykonawca otrzyma kwestionariusz w dniu podpisania umowy w wersji elektronicznej w pliku programu MS Word 2010 o rozszerzeniu .DOCX .    
 __*[Lepiej przekazać niedokończony kwestionariusz niż niepotrzebnie opóźniać jego przekazanie - i tak będzie on jeszcze zmieniany w trakcie konsulacji]*__      
 Wykonawca jest zobowiązany do przeprowadzenie konsultacji z Zamawiającym w zakresie struktury kwestionariusza. W wyniku konsultacji, za zgodą Zamawiającego. Wykonawca może wprowadzić zmiany w kwestionariuszu.    
+
 ## 3. Realizacja badania       
 ### 3.1 Technika zbierania danych     
 Badanie zostanie przeprowadzone przy użyciu techniki CAPI. kwestionariusz będzie wypełniany przez ankieterów na podstawie odpowiedzi respondentów. 
