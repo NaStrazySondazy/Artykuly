@@ -1,6 +1,12 @@
 ---
  Opis Przedmiotu Zamówienia - 10. Ewaluacja programów
 ---
+
+__Ewaluacje probramów społecznych są zazwyczaj elementem zamykającym i podsumowującym cały projekty. Na ich podstwie wnioskuje się o tym, czy podjęte w ramach działania przyniosły zamierzony efekt.    
+Zazwyczj ewaluacje dotyczą beneficjentów programów. Mogą nimi być zarówno osoby fizyczne, jak i prawne, które zgłaszają się same lub są wybierani przez instytucję realizującą projekt. Wszystko zależy od specyfiki programu, która zawsze powinna być uwzględniania w trakcie przygotowywania zamówienia na przeprowadzenie ewaluacji. 
+Szczególnie istotne jest to czy dysponujemy lisą beneficjentów i danymi kontaktowymi do nich. Jeżeli tak, możemy przeprowadzić badanie sondażowe na tej grupie dobierając wszystkich lub tylko pewną część beneficjentów. Inaczej jest, gdy beneficjenci nie są precyzyjnie określeni, np. są to mieszkańcy województwa łódzkiego, albo młodzież szkolna w wieku 13-15 lat.  __
+
+
 # 1. Cel badania    
 ## 1.1 Opis badania    
 Badanie ma na celu ewaluację efektów projektu "Nowy start", którego celem była aktywizacja zawodowa kobiet, które mając pracę urodziły dziecko, a następnie przeszły do grupy osób biernych zawodowo oraz kobiet, które urodziły dziecko nie mając wcześniej żdnej pracy. W programie brało udział 4 tys. kobiet w wieku od 20 do 41 roku życia, które urodziły ostatnie dziecko nie wcześniej niż 3 lata przez rozpoczęciem programu i przez ten okres nie otrzymały nie starały się lub nie udało im się otrzyamać żadnego ztrudnienia.     
